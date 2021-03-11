@@ -32,7 +32,7 @@ header nav {
     font-size: 20px;
 }
 
-/* Moved list-style-type to to next selector group*/ */
+/* Moved list-style-type to to next selector group*/
 
 header nav ul li {
     list-style-type: none;
