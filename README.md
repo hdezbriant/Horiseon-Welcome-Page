@@ -24,20 +24,20 @@ Provide a short description explaining the what, why, and how of your project. U
     -How to maintain version control via a remote repository, and how to publish that repository via Github Pages
 
 
-## Table of Contents (Optional)
-If your README is long, add a table of contents to make it easy for users to find what they need.
+## Table of Contents
+Click the links below to jump to that section!
 - [Usage](#usage)
 - [Credits](#credits)
 - [License](#license)
 
 ## Usage
 
-    -Click nav buttons to be taken to corresponding section of the page.
+    -Click navigation buttons to be taken to corresponding section of the page.
 
    md ![alt text](./assets/images/Horiseon-Welcome-Page.png)
 
 ## Credits
-Huge thanks to [https://github.com/chrispayan](Christian Payan) and [https://github.com/UnDuhDuhSea](Tyler Abegg) for all their help in tweaking code and suggestions for improvements!
+Huge thanks to [Christian Payan](https://github.com/chrispayan) and [Tyler Abegg](https://github.com/UnDuhDuhSea) for all their help in tweaking code and suggestions for improvements!
 
 ```
 ## License
