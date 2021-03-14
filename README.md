@@ -34,7 +34,9 @@ Click the links below to jump to that section!
 
     -Click navigation buttons to be taken to corresponding section of the page.
 
-   md ![alt text](./assets/images/Horiseon-Welcome-Page.png)
+   # [Click here to go to the page!](https://hdezbriant.github.io/Horiseon-Welcome-Page/)
+   
+   ![Screen capture of Horiseon Welcome Page](./assets/images/Horiseon-Welcome-Page.png)
 
 ## Credits
 Huge thanks to [Christian Payan](https://github.com/chrispayan) and [Tyler Abegg](https://github.com/UnDuhDuhSea) for all their help in tweaking code and suggestions for improvements!
